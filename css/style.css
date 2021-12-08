@@ -92,7 +92,7 @@
 
 .about button {
 	color: #fff;
-	width: 100px;
+	width: 150px;
 	background-color: #1f2f3e;
 	border: none;
 	padding: 7px 15px;
@@ -144,6 +144,9 @@
 	width: 300px;
 	margin: auto;
 	text-align: center;
+}
+.card h3{
+	margin:10px 0;
 }
 .card img {
 	margin: auto;
@@ -300,7 +303,7 @@
 	.interest-content {
 		grid-template-columns: repeat(2, 1fr);
 		grid-gap: 20px;
-		padding: 10px;
+		padding: 8px;
 	}
 	.interest-content img {
 		height: 90px;
@@ -402,7 +405,7 @@
 }
 .contact {
 	display: flex;
-	width: 100%;
+	width: 400px;
 	margin: auto;
 	padding: 20px 30px 0 30px;
 	background-color: #eee;
